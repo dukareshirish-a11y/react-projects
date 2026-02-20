@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Calci",
+    "slug": "Calci",
+    "splash": {
+      "image": "./assets/calculator-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
+  }
+}
